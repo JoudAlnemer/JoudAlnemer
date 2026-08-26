@@ -27,8 +27,17 @@ I gained practical exposure to security operations and governance during my inte
 
 ### Featured Projects
 
-#### 📈 [Tanabaa — AI-Powered Stock Price Prediction](#)
-A graduation project: a web platform that uses ML/DL models (Decision Tree, Random Forest, SVR, Bidirectional LSTM) to predict short- and long-term stock prices for three Saudi-listed companies (Zain, Dar Al Arkan, Salamah), trained on 10 years of Tadawul historical data. Delivers Buy/Sell/Hold recommendations based on RSI, built with React.js + FastAPI + MySQL.
+#### Tanabaa — Stock Price Prediction
+
+A graduation project: a web platform that uses ML/DL models to predict short- and long-term stock prices for three Saudi-listed companies (Zain, Dar Al Arkan, Salamah), trained on 10 years of Tadawul historical data. The platform delivers Buy/Sell/Hold recommendations based on RSI and is built with React.js, FastAPI, and MySQL.
+
+**Models:**
+
+- [SVM — Stock Price Prediction](https://github.com/JoudAlnemer/Tanabaa-SVM)
+
+- [Random Forest — Stock Price Prediction](https://github.com/JoudAlnemer/Tanabaa-Random-Forest)
+
+- [Decision Tree — Stock Price Prediction](https://github.com/JoudAlnemer/Tanabaa-Decision-Tree)
 
 `Python` `TensorFlow/Keras` `scikit-learn` `React.js` `FastAPI` `MySQL`
 
