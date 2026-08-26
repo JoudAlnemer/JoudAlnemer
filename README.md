@@ -22,9 +22,9 @@ I'm an Information Technology graduate from **Princess Nourah bint Abdulrahman U
 
 ---
 
-### Featured Projects
+#### Featured Projects:
 
-#### Tanabaa — Stock Price Prediction
+#### - Tanabaa — Stock Price Prediction
 
 A graduation project: a web platform that uses ML/DL models to predict short- and long-term stock prices for three Saudi-listed companies (Zain, Dar Al Arkan, Salamah), trained on 10 years of Tadawul historical data. The platform delivers Buy/Sell/Hold recommendations based on RSI and is built with React.js, FastAPI, and MySQL.
 
